@@ -23,35 +23,35 @@ Breadboard and jumper wires: These components are used to connect the light sens
 # Requirements -
 Hardware requirements:
 
-Arduino UNO board
+1.Arduino UNO board
 
-Two light sensors (photodiodes or phototransistors)
+2.Two light sensors (photodiodes or phototransistors)
 
-Stepper motor
+3.Stepper motor
 
-Stepper motor driver board
+4.Stepper motor driver board
 
-Solar panel
+5.Solar panel
 
-Breadboard and jumper wires
+6.Breadboard and jumper wires
 
-Power supply (9V battery or AC adapter)
+7.Power supply (9V battery or AC adapter)
 
 Software requirements:
 
-Arduino IDE (Integrated Development Environment)
+1.Arduino IDE (Integrated Development Environment)
 
-Accurate time-keeping library (such as DS3231)
+2.Accurate time-keeping library (such as DS3231)
 
-Stepper motor library (such as AccelStepper)
+3.Stepper motor library (such as AccelStepper)
 
-Light sensor library (if needed, depending on the sensor used)
+4.Light sensor library (if needed, depending on the sensor used)
 
 Mechanical requirements:
 
-A frame or structure to hold the solar panel and motor assembly
+1.A frame or structure to hold the solar panel and motor assembly
 
-A mounting bracket to attach the motor to the frame or structure
+2.A mounting bracket to attach the motor to the frame or structure
 
-A gear or pulley system to connect the motor to the solar panel for adjusting the angle
+3.A gear or pulley system to connect the motor to the solar panel for adjusting the angle
 
