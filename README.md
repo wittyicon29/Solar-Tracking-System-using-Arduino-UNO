@@ -55,3 +55,6 @@ Mechanical requirements:
 
 3.A gear or pulley system to connect the motor to the solar panel for adjusting the angle
 
+
+PPT - https://www.canva.com/design/DAFhxNUzIiE/k0H-OpufIGb3DtMTwagJfQ/watch?utm_content=DAFhxNUzIiE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
+Report - https://1drv.ms/w/s!Al_XftKqLfUvmw0zH3WcLVN8huRj?e=9BUKuF
