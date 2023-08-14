@@ -9,7 +9,7 @@ The system can be programmed to track the sun’s movement throughout the day an
 
 Overall, a solar tracking system using an Arduino UNO is an efficient and cost-effective way to improve the performance of solar panels and increase their energy output.
 
-For the mathematical analysis of the system check out the research paper - Mathematical Model and Analysis of Dual Axis Solar Tracking Mechanism by Rashmi Chawla https://www.researchgate.net/publication/334129311_Mathematical_Model_and_Analysis_of_Dual_Axis_Solar_Tracking_Mechanism
+For the mathematical analysis of the system check out the research paper - [Mathematical Model and Analysis of Dual Axis Solar Tracking Mechanism by Rashmi Chawla](https://www.researchgate.net/publication/334129311_Mathematical_Model_and_Analysis_of_Dual_Axis_Solar_Tracking_Mechanism)
 
 # Components 
 Light sensors: Light sensors, such as photodiodes or phototransistors, are used to detect the position of the sun. These sensors are cost-effective, easy to use, and can provide accurate readings of light intensity.
